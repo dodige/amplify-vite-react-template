@@ -93,14 +93,11 @@ export default function BasicGrid() {
         <Grid size={12}>
           <Item> <h2> Quelques uns de nos produits </h2> </Item>
 
-                <div>
-              
-                </div>
-              ))}
-          </div>
+               
 
 
-        </Grid><Grid size={12}>
+        </Grid>
+        <Grid size={12}>
           <img src="https://s3.ca-central-1.amazonaws.com/gospelgeneration.com/bottom_pic.png" alt="Image description" style={{ width: '100%' }} />
         </Grid><
           Grid size={12}>
